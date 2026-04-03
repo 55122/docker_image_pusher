@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 hello-world
 rancher/rancher-agent:v2.7.9
+rancher/rancher-agent:v2.9.3
